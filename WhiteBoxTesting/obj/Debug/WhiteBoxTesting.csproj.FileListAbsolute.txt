@@ -1,0 +1,9 @@
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\WhiteBoxTesting.dll
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\WhiteBoxTesting.pdb
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\DDOOCP_Assignment_Summer_2019_00178090.exe
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\DDOOCP_Assignment_Summer_2019_00178090.pdb
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\obj\Debug\WhiteBoxTesting.csprojResolveAssemblyReference.cache
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\obj\Debug\WhiteBoxTesting.dll
+D:\Softwarica\DDOOCP\Console\DDOOCP_Assignment_Summer_2019_00178090\WhiteBoxTesting\obj\Debug\WhiteBoxTesting.pdb
